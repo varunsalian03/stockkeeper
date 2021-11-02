@@ -1,0 +1,140 @@
+<resources>
+
+    <string name="app_name">StockKeeper</string>
+
+
+    <string name="action_save">Save</string>
+
+
+    <string name="action_delete">Delete</string>
+
+
+    <string name="hint_product_name">Name</string>
+
+
+    <string name="category_overview">Overview</string>
+
+
+    <string name="hint_product_quantity">Quantity</string>
+
+
+    <string name="supplier_1">Dmart</string>
+
+
+    <string name="supplier_2">Big Bazaar</string>
+
+
+    <string name="supplier_3">Reliance</string>
+
+
+    <string name="supplier_4">Haiko</string>
+
+
+    <string name="supplier_5">Natures Basket</string>
+
+
+    <string name="supplier_6">Super Mart</string>
+
+
+    <string name="supplier_7">Mango</string>
+
+
+    <string name="supplier_8">Zomato</string>
+
+
+    <string name="supplier_9">More</string>
+
+
+    <string name="supplier_10">Star Bazaar</string>
+
+
+    <string name="category_supplier">Supplier</string>
+
+
+    <string name="hint_product_supplier_name">Name of Supplier</string>
+
+
+    <string name="hint_product_supplier_contact">Supplier\'s email</string>
+
+
+    <string name="category_supplier_contact">Supplier\'s Email</string>
+
+
+    <string name="product_decrease_quantity_label">-</string>
+
+
+    <string name="product_increase_quantity_label">+</string>
+
+
+    <string name="product_order_more_label">order more</string>
+
+    <string name="product_decrease_button_negative">Product quantity cannot be less than zero</string>
+    <string name="unsupported_insertion">Insertion is not supported for</string>
+    <string name="insert_product_no_name">Product needs a description</string>
+    <string name="insert_product_no_quantity">Quantity of product is required</string>
+    <string name="insert_product_no_price">Product requires price</string>
+    <string name="insert_product_no_supplier">Product requires a supplier</string>
+    <string name="insert_product_no_supplier_contact">Product requires suppplier contact information</string>
+    <string name="insert_failure">Failed to insert row for</string>
+    <string name="delete_product_failure">Deletion is not supported for:</string>
+    <string name="update_product_no_desc">Product requires a description</string>
+    <string name="update_product_no_quantity">Product requires quantity</string>
+    <string name="update_product_no_price">Product requires valid price information</string>
+    <string name="update_product_no_supplier">Products requires supplier information</string>
+    <string name="update_product_no_supplier_contact">Products requires supplier contact information</string>
+    <string name="update_product_failure">Update is not supported for</string>
+    <string name="editor_save_product_no_price">Price cannot be left blank!</string>
+    <string name="hint_product_price">Price</string>
+    <string name="catalog_desc_header">Description</string>
+    <string name="catalog_quantity_header">Quantity</string>
+    <string name="catalog_price_header">Price</string>
+    <string name="provider_type_mismatch_part1">Unknown URI</string>
+    <string name="provider_type_mismatch_part2">with match</string>
+    <string name="list_item_qty_not_sufficient">Currently out of stock!</string>
+
+
+    <string name="user_instructions">
+        No products to display.\n
+        Press the below button enter new product information and save it to the database.
+    </string>
+
+
+    <string name="product_fragment_title">Product Information</string>
+
+
+    <string name="product_order_more_email_subject">Require Shipment</string>
+
+
+    <string name="product_insert_product_failed">Error with saving product</string>
+
+
+    <string name="product_insert_product_successful">Product saved</string>
+
+
+    <string name="product_update_product_failed">Error with updating product</string>
+
+
+    <string name="product_update_product_successful">Product updated</string>
+
+
+    <string name="product_delete_product_failed">Error with deleting product</string>
+
+
+    <string name="product_delete_product_successful">Product deleted</string>
+
+
+    <string name="list_item_sell_button">Used</string>
+
+
+    <string name="list_item_price_label">Price: ₹</string>
+
+
+    <string name="list_item_sell_error">Multiple match for URI:</string>
+
+
+    <string name="editor_product_image_update_success">Product image successfully updated</string>
+    <string name="price">Price</string>
+    <string name="product_image_cd">Product Image</string>
+    <string name="product_camera_cd">button that opens mobile camera to capture product image</string>
+
+</resources>
